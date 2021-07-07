@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MEF3D:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MEF3D_jar</output-path>
+    <root id="archive" name="MEF3D.jar">
+      <element id="module-output" name="MEF3D" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/ejml-v0.40-libs/ejml-core-0.40.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/ejml-v0.40-libs/ejml-cdense-0.40.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/ejml-v0.40-libs/ejml-ddense-0.40.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/ejml-v0.40-libs/ejml-fdense-0.40.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/ejml-v0.40-libs/ejml-simple-0.40.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/ejml-v0.40-libs/ejml-zdense-0.40.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/ejml-v0.40-libs/ejml-dsparse-0.40.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/ejml-v0.40-libs/ejml-core-0.40-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/ejml-v0.40-libs/ejml-experimental-0.40.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/ejml-v0.40-libs/ejml-cdense-0.40-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/ejml-v0.40-libs/ejml-ddense-0.40-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/ejml-v0.40-libs/ejml-fdense-0.40-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/ejml-v0.40-libs/ejml-simple-0.40-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/ejml-v0.40-libs/ejml-zdense-0.40-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/ejml-v0.40-libs/ejml-dsparse-0.40-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/ejml-v0.40-libs/ejml-experimental-0.40-sources.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
